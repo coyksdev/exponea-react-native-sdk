@@ -16,7 +16,7 @@
     "test": "jest",
     "lint": "eslint .",
     "build": "tsc",
-    "postinstall": "yarn build"
+    "postinstall": "npx tsc"
   },
   "repository": {
     "type": "git",
