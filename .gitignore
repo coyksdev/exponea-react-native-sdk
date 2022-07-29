@@ -42,7 +42,6 @@ buck-out/
 *.keystore
 
 # Package files generated from typescript
-/lib
 /example/js
 
 # Pods
