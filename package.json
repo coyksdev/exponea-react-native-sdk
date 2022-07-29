@@ -15,7 +15,8 @@
   "scripts": {
     "test": "jest",
     "lint": "eslint .",
-    "build": "tsc"
+    "build": "tsc",
+    "postinstall": "yarn build"
   },
   "repository": {
     "type": "git",
